@@ -77,3 +77,5 @@ References
 UCI Heart Disease Dataset
 
 scikit-learn Documentation
+![image](https://github.com/user-attachments/assets/cae9f666-3435-41d5-854b-8e1a82cd99e0)
+
